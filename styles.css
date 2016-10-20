@@ -2,3 +2,19 @@ body {
   background-color: rgba(204, 76, 49, 0.94);
   font-family: helvetica, arial;
 }
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  letter-spacing: 0.1em;
+  text-transform: capitalize;
+}
+
+a {
+  color: rgb(199, 183, 77);
+  text-decoration: none;
+}
+
+em {
+  background-color: rgb(199, 183, 77);
+}
